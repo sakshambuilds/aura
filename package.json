@@ -1,0 +1,21 @@
+{
+  "name": "aura-social",
+  "version": "1.0.0",
+  "description": "Aura - Next-Generation Social Media Platform (Instagram Full Clone)",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "instagram",
+    "aura",
+    "social-media",
+    "reels",
+    "stories",
+    "firebase",
+    "cloudinary"
+  ],
+  "author": "",
+  "license": "MIT"
+}

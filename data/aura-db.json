@@ -1,0 +1,311 @@
+{
+  "users": [
+    {
+      "uid": "bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "email": "saksham@aura.app",
+      "username": "saksham",
+      "displayName": "saksham",
+      "photoURL": "https://res.cloudinary.com/m8qntrnn/image/upload/v1791815803/ykf0ye2c7qeqb2y4fov9.png",
+      "bio": "✨ Aura Creator",
+      "website": "",
+      "followers": [],
+      "following": [
+        "UmPwq0pkT9NVp0HWN6qNk6GekZo2"
+      ],
+      "savedPosts": [],
+      "createdAt": 1791815486515,
+      "updatedAt": 1791817590402
+    },
+    {
+      "uid": "UmPwq0pkT9NVp0HWN6qNk6GekZo2",
+      "email": "saksham2@aura.app",
+      "username": "saksham2",
+      "displayName": "saksham2",
+      "photoURL": "https://api.dicebear.com/7.x/adventurer/svg?seed=saksham2",
+      "bio": "✨ Aura Creator",
+      "website": "",
+      "followers": [
+        "bRo7d8jzbqOiQH3kmRZSLiM8uV62"
+      ],
+      "following": [],
+      "savedPosts": [],
+      "createdAt": 1791815317719,
+      "updatedAt": 1791817590704
+    }
+  ],
+  "posts": [],
+  "reels": [],
+  "stories": [],
+  "messages": [
+    {
+      "id": "msg_1791816397136_5utyn",
+      "chatId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2_chat_bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "senderId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2",
+      "recipientId": "bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "content": "❤️",
+      "mediaUrl": null,
+      "timestamp": 1791816397136,
+      "read": false
+    },
+    {
+      "id": "msg_1791816402536_8j7xt",
+      "chatId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2_chat_bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "senderId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2",
+      "recipientId": "bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "content": "yooo",
+      "mediaUrl": null,
+      "timestamp": 1791816402536,
+      "read": false
+    },
+    {
+      "id": "msg_1791816417377_effv4",
+      "chatId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2_chat_bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "senderId": "bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "recipientId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2",
+      "content": "hello",
+      "mediaUrl": null,
+      "timestamp": 1791816417377,
+      "read": false
+    },
+    {
+      "id": "msg_1791816422064_nmjzo",
+      "chatId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2_chat_bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "senderId": "bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "recipientId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2",
+      "content": "hello",
+      "mediaUrl": null,
+      "timestamp": 1791816422064,
+      "read": false
+    },
+    {
+      "id": "msg_1791816430336_2yfe0",
+      "chatId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2_chat_bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "senderId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2",
+      "recipientId": "bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "content": "❤️",
+      "mediaUrl": null,
+      "timestamp": 1791816430336,
+      "read": false
+    },
+    {
+      "id": "msg_1791816975597_o4k35",
+      "chatId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2_chat_bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "senderId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2",
+      "recipientId": "bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "content": "wsp",
+      "mediaUrl": null,
+      "timestamp": 1791816975597,
+      "read": false
+    },
+    {
+      "id": "msg_1791816986069_tknp9",
+      "chatId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2_chat_bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "senderId": "bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "recipientId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2",
+      "content": "good",
+      "mediaUrl": null,
+      "timestamp": 1791816986069,
+      "read": false
+    },
+    {
+      "id": "msg_1791818272787_bnvo2",
+      "chatId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2_chat_bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "senderId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2",
+      "recipientId": "bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "content": "📞 Audio call ended • 00:18",
+      "mediaUrl": null,
+      "timestamp": 1791818272787,
+      "read": false
+    },
+    {
+      "id": "msg_1791818278619_a6mbc",
+      "chatId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2_chat_bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "senderId": "bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "recipientId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2",
+      "content": "📞 Audio call ended • 00:10",
+      "mediaUrl": null,
+      "timestamp": 1791818278619,
+      "read": false
+    },
+    {
+      "id": "msg_1791818281963_kgf1f",
+      "chatId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2_chat_bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "senderId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2",
+      "recipientId": "bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "content": "📞 Audio call ended • 00:04",
+      "mediaUrl": null,
+      "timestamp": 1791818281963,
+      "read": false
+    },
+    {
+      "id": "msg_1791818301228_34gtv",
+      "chatId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2_chat_bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "senderId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2",
+      "recipientId": "bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "content": "📹 Video call ended • 00:09",
+      "mediaUrl": null,
+      "timestamp": 1791818301228,
+      "read": false
+    },
+    {
+      "id": "msg_1791818307308_rmk9s",
+      "chatId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2_chat_bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "senderId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2",
+      "recipientId": "bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "content": "📞 Audio call ended • 00:02",
+      "mediaUrl": null,
+      "timestamp": 1791818307308,
+      "read": false
+    },
+    {
+      "id": "msg_1791818795223_c88zh",
+      "chatId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2_chat_bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "senderId": "bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "recipientId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2",
+      "content": "📞 Audio call ended • 00:01",
+      "mediaUrl": null,
+      "timestamp": 1791818795223,
+      "read": false
+    },
+    {
+      "id": "msg_1791818798936_0cn4y",
+      "chatId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2_chat_bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "senderId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2",
+      "recipientId": "bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "content": "📞 Audio call ended • 00:16",
+      "mediaUrl": null,
+      "timestamp": 1791818798936,
+      "read": false
+    },
+    {
+      "id": "msg_1791818824792_2ehf6",
+      "chatId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2_chat_bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "senderId": "bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "recipientId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2",
+      "content": "📞 Audio call ended • 00:01",
+      "mediaUrl": null,
+      "timestamp": 1791818824792,
+      "read": false
+    },
+    {
+      "id": "msg_1791818983093_hw83w",
+      "chatId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2_chat_bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "senderId": "bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "recipientId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2",
+      "content": "📞 Audio call ended • 00:00",
+      "mediaUrl": null,
+      "timestamp": 1791818983093,
+      "read": false
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif_1791818204450_2jf2",
+      "recipientId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2",
+      "senderId": "bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "type": "follow",
+      "text": "started following you.",
+      "timestamp": 1791818204450,
+      "read": false
+    },
+    {
+      "id": "notif_1791818186624_yr72",
+      "recipientId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2",
+      "senderId": "bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "type": "follow",
+      "text": "started following you.",
+      "timestamp": 1791818186624,
+      "read": false
+    },
+    {
+      "id": "notif_1791818121068_s2en",
+      "recipientId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2",
+      "senderId": "bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "type": "follow",
+      "text": "started following you.",
+      "timestamp": 1791818121068,
+      "read": false
+    },
+    {
+      "id": "notif_1791818121063_ct4i",
+      "recipientId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2",
+      "senderId": "bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "type": "follow",
+      "text": "started following you.",
+      "timestamp": 1791818121063,
+      "read": false
+    },
+    {
+      "id": "notif_1791818117723_gama",
+      "recipientId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2",
+      "senderId": "bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "type": "follow",
+      "text": "started following you.",
+      "timestamp": 1791818117723,
+      "read": false
+    },
+    {
+      "id": "notif_1791818117720_sk4d",
+      "recipientId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2",
+      "senderId": "bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "type": "follow",
+      "text": "started following you.",
+      "timestamp": 1791818117720,
+      "read": false
+    },
+    {
+      "id": "notif_1791817590389_of5f",
+      "recipientId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2",
+      "senderId": "bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "type": "follow",
+      "text": "started following you.",
+      "timestamp": 1791817590389,
+      "read": false
+    },
+    {
+      "id": "notif_1791816744762_uszs",
+      "recipientId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2",
+      "senderId": "bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "type": "follow",
+      "text": "started following you.",
+      "timestamp": 1791816744762,
+      "read": false
+    },
+    {
+      "id": "notif_1791816743264_rfs5",
+      "recipientId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2",
+      "senderId": "bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "type": "follow",
+      "text": "started following you.",
+      "timestamp": 1791816743264,
+      "read": false
+    },
+    {
+      "id": "notif_1791816741296_43ih",
+      "recipientId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2",
+      "senderId": "bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "type": "follow",
+      "text": "started following you.",
+      "timestamp": 1791816741296,
+      "read": false
+    },
+    {
+      "id": "notif_1791816739168_mhx4",
+      "recipientId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2",
+      "senderId": "bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "type": "follow",
+      "text": "started following you.",
+      "timestamp": 1791816739168,
+      "read": false
+    },
+    {
+      "id": "notif_1791816737784_4qke",
+      "recipientId": "UmPwq0pkT9NVp0HWN6qNk6GekZo2",
+      "senderId": "bRo7d8jzbqOiQH3kmRZSLiM8uV62",
+      "type": "follow",
+      "text": "started following you.",
+      "timestamp": 1791816737784,
+      "read": false
+    }
+  ]
+}
